@@ -8,7 +8,6 @@ RUN npm install
 
 COPY . .
 
-COPY .env .
 
 EXPOSE 3000
 
