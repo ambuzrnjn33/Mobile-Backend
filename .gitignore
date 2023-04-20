@@ -1,0 +1,4 @@
+/node_modules
+/.env
+/src/helper/aws3.js
+/src/helper/aws2.js
